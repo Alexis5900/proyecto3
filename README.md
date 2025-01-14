@@ -30,7 +30,7 @@ La página incluye las siguientes secciones:
 ---
 
 ## Demo
-Accede a la demo del proyecto: [Demo en GitHub Pages](https://github.com/usuario/software-molina-landing)
+Accede a la demo del proyecto: [Demo en GitHub Pages](https://github.com/Alexis5900/proyecto3)
 
 ---
 
