@@ -68,3 +68,7 @@ Accede a la demo del proyecto: [Demo en GitHub Pages](https://github.com/usuario
 ## Imágenes del Proyecto
 
 ![Hero](./images/imagenproyecto.png)
+
+
+
+![Diagrama](./images/diagrama.png)
